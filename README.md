@@ -4,7 +4,7 @@
 
 **Current Version:** 3.0.1
 
-**Previous Version:** 2.0.0
+**Previous Version:** 2.0.6
 
 **GitHub Repository:** MrRocky04/uploading-artifact
 
